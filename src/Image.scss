@@ -1,0 +1,36 @@
+
+.image-container {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: black;
+}
+
+.placeholder-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  filter: blur(12px);
+  z-index: 2;
+  opacity: 1;
+  transition: 0.25s opacity ease-out;
+  transform: scale(1.05); 
+}
+
+.placeholder-image--hidden {
+  opacity: 0;
+}
+
+.true-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  opacity: 0;
+}
+
+.true-image--loaded {
+  opacity: 1;
+}
