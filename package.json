@@ -1,5 +1,5 @@
 {
-  "name": "react-lazy-image",
+  "name": "react-img-load",
   "version": "0.0.1-alpha",
   "description": "A react component for image lazy loading",
   "main": "lib/index.js",
@@ -28,10 +28,13 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
-  "author": "",
+  "author": "Maikko Aleman (maikko.aleman@gmail.com)",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maikkoko/react-img-load.git"
+  },
   "keywords": [
     "react-component"
   ]
