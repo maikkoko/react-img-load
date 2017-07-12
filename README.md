@@ -1,16 +1,16 @@
-# react-image-loading
+# react-lazy-image
 
-[![Travis][build-badge]][build]
+<!--[![Travis][build-badge]][build]-->
 [![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
+<!--[![Coveralls][coveralls-badge]][coveralls]-->
 
-Describe react-image-loading here.
+A react component for image lazy loading.
 
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
+<!--[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
+[build]: https://travis-ci.org/user/repo-->
 
 [npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
+[npm]: https://www.npmjs.org/package/react-lazy-image
 
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+<!--[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/user/repo-->

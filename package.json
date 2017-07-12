@@ -1,7 +1,7 @@
 {
-  "name": "react-image-loading",
-  "version": "0.0.1",
-  "description": "react-image-loading React component",
+  "name": "react-lazy-image",
+  "version": "0.0.1-alpha",
+  "description": "A react component for image lazy loading",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
