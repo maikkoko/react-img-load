@@ -16,7 +16,9 @@ A react component for image lazy loading.
 [coveralls]: https://coveralls.io/github/user/repo-->
 
 ## Installation
-`npm install --save react-img-load`
+```
+npm install --save react-img-load
+```
 
 ## Usage
 ```
