@@ -6,11 +6,11 @@ import './App.scss'
 import Image from '../../src'
 
 
-import image1Small from './images/image1-small.png'
-import image1 from './images/image1.jpeg'
+const image1Small = 'https://s3-ap-southeast-1.amazonaws.com/mayko-media/react-img-load/image1-small.png'
+const image1 = 'https://s3-ap-southeast-1.amazonaws.com/mayko-media/react-img-load/image1.jpg'
 
-import image2Small from './images/image2-small.png'
-import image2 from './images/image2.jpeg'
+const image2Small = 'https://s3-ap-southeast-1.amazonaws.com/mayko-media/react-img-load/image2-small.png'
+const image2 = 'https://s3-ap-southeast-1.amazonaws.com/mayko-media/react-img-load/image2.jpeg'
 
 let Demo = React.createClass({
   render() {
